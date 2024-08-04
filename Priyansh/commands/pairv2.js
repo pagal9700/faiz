@@ -1,6 +1,6 @@
 
 module.exports.config = {
-  name: "pairv2",
+  name: "pairv4",
   version: "1.0.0",
   hasPermssion: 0,
   credits: "Khoa",
