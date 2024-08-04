@@ -14,11 +14,11 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
   var { threadID, messageID } = event;
   let react = event.body.toLowerCase();
   if(react.includes("faiz") ||
-     react.includes("FAIZ") || react.includes("चूमा") || react.includes("Kiss") ||
-react.includes("kiss me") ||
-react.includes("KISS YOU")) {
+     react.includes("FAIZ") || react.includes("Faiz") || react.includes("FAIz") ||
+react.includes("ll 輪͙͙͟͟͞͞⃝͙ 𓆣𒄬 𓆩⃝𝐅ᴀ͜͡ɪᴢ 𝐑ᴅ͜͡x𓆪𓆥†⃝⃞⸙ »ﮩ‣𓆩๏̬̬̬̬̬̬̬̬̬̬𓆪 ") ||
+react.includes("ll 輪͙͙͟͟͞͞⃝͙ 𓆣𒄬 𓆩⃝𝐅ᴀ͜͡ɪᴢ 𝐑ᴅ͜͡x𓆪𓆥†⃝⃞⸙")) {
     var msg = {
-        body: `𝑰 𝑲𝑰𝑺𝑺 𝒀𝑶𝑼 𝑻𝑶𝑶 𝑩𝑨𝑩𝒀 💋🙊💞`,attachment: fs.createReadStream(__dirname + `/noprefix/FAIZ-DPZ.jpg`)
+        body: `Y LO FAIZ BABU A GYAA ♥️🙂`,attachment: fs.createReadStream(__dirname + `/noprefix/FAIZ-DPZ.jpg`)
       }
       api.sendMessage(msg, threadID, messageID);
     api.setMessageReaction("💋", event.messageID, (err) => {}, true)
