@@ -7,44 +7,44 @@
     "autoClean": false,
     "adminOnly": false,
     "keyAdminOnly": "",
-    "commandDisabled": [
-        "",
-        ""
-    ],
+    "commandDisabled": [],
     "eventDisabled": [],
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "SHIVA",
+    "BOTNAME": "SHIVA BOT",
     "PREFIX": "#",
     "OTHERBOT": [
         ""
     ],
     "UNSENTVIP": [
-        "61561731423774",
-        "",
-        "",
-        "",
+        "100082052205053",
+        "61552520997731",
+        "100085324852432",
         ""
     ],
     "GOD": [
-        "61561731423774",
-        "",
         ""
     ],
     "ADMINBOT": [
-        "61559402804237",
-        "61561731423774",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "100085324852432",
+        "100091268256909",
+        "100082052205053",
+        "61552520997731",
+        "61552656562989",
+        "61551589643186",
+        "61558777394570",
+        "100069135162677",
+        "100081089402257",
+        "100079626829456",
+        "100080899898916",
+        "100069584601848",
+        "61555224008836"
     ],
-    "OWNER": "𝕻𝖗𝖎𝖞𝖆𝖓𝖘𝖍 𝕽𝖆𝖏𝖕𝖚𝖙",
-    "AGE": "21",
-    "GENDER": "𝗠𝗮𝗟𝗲",
-    "FACEBOOK": "https://www.facebook.com/profile.php?id=61563797272549&mibextid=ZbWKwL",
+    "OWNER": "FAIZ ANSARI",
+    "AGE": "20",
+    "GENDER": "MALE",
+    "FACEBOOK": "https://www.facebook.com/profile.php?id=100082052205053&mibextid=ZbWKwL",
     "AutoOffBot": "disable",
     "AutoOffBotStartSleep": "disable",
     "AutoOffBotSendMessage": "Bye everyone. i need to sleep i'll be right back at 5:00AM 🥰",
@@ -53,7 +53,7 @@
     "AutoGreetWithSticker": "enable",
     "AutoGreetSendPerHour": "1",
     "AutoPost": "disable",
-    "AutoPostText": "༻𝐎𝐖𝐍𝐄𝐑:- ☞𝐁𝐑𝐎𝐊𝐄𝐍 𝐀𝐀𝐃𝐈☜ ༺ ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠𝐀𝐀𝐃𝐈〠.༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ https://www.facebook.com/profile.php?id=61553568601361☜ ֎𝘍𝘰𝘳 𝘈𝘯𝘺 𝘒𝘪𝘯𝘥 𝘖𝘧 𝘏𝘦𝘭𝘱 :- https://www.instagram.com/aadi_singh__143?igsh=MXVneXZ6bzR4bHhvcg==☜",
+    "AutoPostText": "༻𝐎𝐖𝐍𝐄𝐑:- FAIZ ANSARI☜ ༺ ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠FAIZ ANSARI〠.༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞https://www.facebook.com/profile.php?id=100082052205053&mibextid=ZbWKwL= ☜",
     "AutoPostPerHour": "1",
     "AutoPostGreet": "disable",
     "AutoPostGreetPostPerHour": "6",
@@ -64,7 +64,7 @@
     "AutoPendingGroupChat": "accept",
     "AutoBioStatus": "enable",
     "AutoBioStatusSetPerHour": "1",
-    "BioStatus": "༻𝐎𝐖𝐍𝐄𝐑:- ☞𝐁𝐑𝐎𝐊𝐄𝐍 𝐀𝐀𝐃𝐈☜ ༺ ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠𝐀𝐀𝐃𝐈〠.༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ https://www.facebook.com/profile.php?id=61553568601361☜ ֎𝘍𝘰𝘳 𝘈𝘯𝘺 𝘒𝘪𝘯𝘥 𝘖𝘧 𝘏𝘦𝘭𝘱 :- https://www.instagram.com/aadi_singh__143?igsh=MXVneXZ6bzR4bHhvcg==☜",
+    "BioStatus": "༻𝐎𝐖𝐍𝐄𝐑:- ☞FAIZ ANSARI☜ ༺ ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠FAIZ ANSARI〠.༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ https://www.facebook.com/profile.php?id=100082052205053&mibextid=ZbWKwL☜",
     "AutoLeave": "enable",
     "RandomRedditMemes": "enable",
     "RandomRedditMemesSendPerHour": "1",
@@ -199,5 +199,12 @@
     },
     "messageforrealcreator": {
         "enable": true
+    },
+    "botchk": {
+        "autoUnsend": "",
+        "unsendMessageAfter": 5
+    },
+    "video2": {
+        "YOUTUBE_API": "AIzaSyDBOpnGGz225cPwHlJQs8OMRtxOjSUm73I"
     }
 }
